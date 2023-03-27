@@ -1,0 +1,22 @@
+.navbar {
+  background-color: red;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 1rem;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-right: 2rem;
+}
+
+.navbar-item {
+  color: #333;
+  font-size: 1.2rem;
+  margin-right: 1rem;
+}
+
+.navbar-item:hover {
+  color: #666;
+  text-decoration: none;
+}
